@@ -24,7 +24,7 @@ The original tutorial was used as a reference while learning and implementing co
 The Amaterasu repository may contain modifications, improvements and experiments made during my own development.
 
 **Original creator:** HackStation
-**Original tutorial:** [HackStation on YouTube](https://www.youtube.com/@HackStation)
+**Original tutorial:** [HackStation on YouTube](https://www.youtube.com/@CanalHackStation)
 
 ---
 
@@ -210,4 +210,4 @@ Special thanks to **HackStation** for the tutorial that served as the starting p
 Please check out the original creator:
 
 📺 **HackStation on YouTube:**
-https://www.youtube.com/@HackStation
+https://www.youtube.com/@CanalHackStation
