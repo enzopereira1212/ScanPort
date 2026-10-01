@@ -3,10 +3,6 @@
 <h3 align="center">A fast, multithreaded TCP port scanner written in Python.</h3>
 
 <p align="center">
-<img width="559" height="179" alt="Amaterasu Port Scanner" src="https://github.com/user-attachments/assets/77b167f6-5bf6-4587-aec5-f6ee146c5adc" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Author-Enzo%20Pereira-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen?style=flat-square">
   <img src="https://img.shields.io/badge/Maintained-Yes-purple?style=flat-square">
